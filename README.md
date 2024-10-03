@@ -27,9 +27,9 @@ Este projeto é um **Classificador de Nível de Herói** que determina o nível 
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seuusuario/desafio-classificador-nivel-heroi.git
+   git clone https://github.com/marconesdb/classificadorDeHeroi.git
 2. **Navegue até o diretório do projeto:**
-   cd desafio-classificador-nivel-heroi
+   cd nome_de_sua_pasta
 
 3. **Abra o arquivo index.html em um navegador da web:**
 
