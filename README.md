@@ -28,7 +28,8 @@ Este projeto é um **Classificador de Nível de Herói** que determina o nível 
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/marconesdb/classificadorDeHeroi.git
-2. **Navegue até o diretório do projeto:**
+2. **Navegue até o diretório do projeto:**  
+   ```bash
    cd nome_de_sua_pasta
 
 3. **Abra o arquivo index.html em um navegador da web:**
